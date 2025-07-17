@@ -1,0 +1,6 @@
+Source IP: 192.168.0.5  
+Destination IP: 192.168.0.1  
+Protocol: 6  
+Payload: b'\x00\x1c...'  
+--------------------------------------------------  
+(repeat for total 10 packets)
